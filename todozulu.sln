@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todozulu.common", "tuduzulu.common\todozulu.common.csproj", "{329F06E6-D2EE-48CA-8DA5-C714767B6E0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todozulu.common", "tuduzulu.common\todozulu.common.csproj", "{329F06E6-D2EE-48CA-8DA5-C714767B6E0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todozulu.Function", "todozulu.Function\todozulu.Function.csproj", "{55BD72B7-35ED-439A-8D68-BBFA897F7BCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todozulu.Function", "todozulu.Function\todozulu.Function.csproj", "{55BD72B7-35ED-439A-8D68-BBFA897F7BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todozulu.Texts", "todozulu.Texts\todozulu.Texts.csproj", "{8A1F7CD7-6E82-41E6-8B5F-6F025391534B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todozulu.Texts", "todozulu.Texts\todozulu.Texts.csproj", "{8A1F7CD7-6E82-41E6-8B5F-6F025391534B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
